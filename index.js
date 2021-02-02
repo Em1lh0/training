@@ -72,3 +72,4 @@ const ct = new CT ({
 })
   alert('test')
 // PROVERKA GIT
+prompt('sdsd')
