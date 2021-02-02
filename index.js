@@ -71,3 +71,4 @@ const ct = new CT ({
     health: 100
 })
   
+// PROVERKA GIT
