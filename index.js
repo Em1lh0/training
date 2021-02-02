@@ -70,6 +70,3 @@ class CT extends Human {}
 const ct = new CT ({
     health: 100
 })
-  alert('test')
-// PROVERKA GIT
-prompt('sdsd')
